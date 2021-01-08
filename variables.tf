@@ -1,5 +1,5 @@
 variable "name" {
-  default = "micah-fargate-test"
+  default = "paul-tf-fargate"
 }
 
 variable "vpc_id" {
