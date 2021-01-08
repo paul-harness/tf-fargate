@@ -1,6 +1,6 @@
-variable "name" {
-  default = "paul-tf-fargate"
-}
+# variable "name" {
+#   default = "paul-tf-fargate"
+# }
 
 # variable "vpc_id" {
 #   default = "vpc-0e7bedb2e71dd8025"
@@ -23,3 +23,5 @@ variable "name" {
 
 # variable "aws_secret_key" {
 # }
+
+variable "foo" {}
