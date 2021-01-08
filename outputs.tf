@@ -14,7 +14,7 @@ output "vpc_id" {
   value = data.aws_vpc.selected.id
 }
 
-output "security_group_ids" {
+output "security_group_id" {
   value = data.aws_security_group.selected.id
 }
 
