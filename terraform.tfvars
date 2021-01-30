@@ -1,2 +1,6 @@
 aws_access_key = "AKIA3B4U6ZROUTVO324R"
 region = "us-east-1"
+name = "paul-tf-fargate"
+vpc_id = "vpc-0e7bedb2e71dd8025"
+subnet_id = "subnet-0d3650898e5d4ca9a"
+security_group_id = "sg-011b1f285fb3c9be1"
